@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347186815624",
+    "project_id": "orbscan-b2954",
+    "storage_bucket": "orbscan-b2954.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347186815624:android:8df37ae4dd7f6c04da753d",
+        "android_client_info": {
+          "package_name": "com.example.orbscantemplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347186815624-v63t7qasb163tukee4jgvbkrmi0c4t3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-2y8xisG5ev7THKmfJFp9b2RC2C22C7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347186815624-v63t7qasb163tukee4jgvbkrmi0c4t3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
